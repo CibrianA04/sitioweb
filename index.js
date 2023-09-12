@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Gracias ingrit, puro pinchi skz, te amo canela')
+    alert('Gracias, puro pinchi twice, tqm ')
 });
 
 const noBtn = document.querySelector('#noBtn');
